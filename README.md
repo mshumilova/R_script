@@ -4,7 +4,7 @@ Here I provide R scripts I am writing during my education and work (I am a bioin
 About folders
 
 "homework_ITMO"        - a folder contains some tasks I am solving during R class at ITMO University.
-"observational_study"  - a folder has information about tasks I am solving during analysis of observational studies at my current work.
+"observational_study"  - a folder has information about tasks I am solving during analysis of observational studies.
 
 
  
